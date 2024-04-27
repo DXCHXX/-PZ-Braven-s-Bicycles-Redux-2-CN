@@ -1,9 +1,9 @@
 version=1
 title=Braven-s-Bicycles-Redux-2-CN
-description=Project Zomboid mod Braven's Bicycles Redux æ±‰åŒ–
+description=Project Zomboid mod Braven's Bicycles Redux ºº»¯
 description=
-description=æœ¬é¡¹ç›®è¯­è¨€æ–‡æœ¬ç¿»è¯‘ä½¿ç”¨å¤§è¯­è¨€æ¨¡å‹ç¿»è¯‘ã€‚
+description=±¾ÏîÄ¿ÓïÑÔÎÄ±¾·­ÒëÊ¹ÓÃ´óÓïÑÔÄ£ĞÍ·­Òë¡£
 description=
-description=æ±‰åŒ–modåœ°å€è®¢é˜…åœ°å€ï¼šhttps://steamcommunity.com/sharedfiles/filedetails/?id=2988491347
+description=ºº»¯modµØÖ·¶©ÔÄµØÖ·£ºhttps://steamcommunity.com/sharedfiles/filedetails/?id=2988491347
 tags=
 visibility=public
