@@ -1,8 +1,8 @@
 IG_UI_CN = {
 	IGUI_VehicleNameBicycleRegular = "普通自行车",
-	IGUI_VehicleNameBicycleRegularScrap = "普通自行车 (废料)",
+	IGUI_VehicleNameBicycleRegularScrap = "普通自行车 (Scrap™)",
 	IGUI_VehicleNameBicycleMTB = "越野自行车",
-	IGUI_VehicleNameBicycleMTBScrap = "越野自行车 (废料)",
+	IGUI_VehicleNameBicycleMTBScrap = "越野自行车 (Scrap™)",
 	IGUI_VehicleNameBicycleTrailer = "自行车拖车"
 	IGUI_VehiclePartSeatFront= "鞍",
 	IGUI_VehiclePartSuspensionFront = "前叉",
